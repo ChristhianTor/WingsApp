@@ -1,0 +1,19 @@
+#estiramientos-list {
+    display: flex;
+    gap: 1rem;
+    margin: 1rem 0;
+}
+
+.btn-estiramiento {
+    padding: 10px 20px;
+    border: none;
+    background-color: #3498db;
+    color: white;
+    cursor: pointer;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.btn-estiramiento:hover {
+    background-color: #2980b9;
+}

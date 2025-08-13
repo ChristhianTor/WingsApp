@@ -1,0 +1,95 @@
+[
+    {
+        "nombre": "Shakira",
+        "descripcion": "Aquellas mujeres que conectan con la aceptacion tanto fisica como emocionalmente, que permiten verse a ellas mismas tal cual son sin el miedo al que diran. Simplemente son ellas en su mayor esplendor",
+        "participantes": [
+            {"nombre": "Andrea Rangel", "avanzado": 49},
+            {"nombre": "Juanita Borda", "avanzado": 56}
+        ]
+            
+    },
+    {
+        "nombre": "Stripper Hombre",
+        "descripcion": "Aquellos hombres que conectan con la seguridad, con la valentia, con el riesgo y con el amor propio. Quitandose de encima cualquier tipo de limite que los detenga de ser ellos mismos.",
+        "participantes": [
+            {"nombre": "Christhian Torres", "avanzado": 41},
+            {"nombre": "Diego Rojas", "avanzado": 56}
+        ]
+    },
+    {
+        "nombre": "Stripper Mujer",
+        "descripcion": "Aquellas mujeres que conectan con la seguridad, con la valentia, con el riesgo y con el amor propio. Quitandose de encima cualquier tipo de limite que los detenga de ser ellas mismas.",
+        "participantes": [
+            {"nombre": "Natalia Rojas", "avanzado": 42},
+            {"nombre": "Ana Maria Vega", "avanzado": 49}
+        ]
+    },
+    {
+        "nombre": "Dama De Rojo",
+        "descripcion": "Aquellas mujeres que conectan con el amor propio, con la vulnerabilidad. Aquellas mujeres capaces de darse cuenta que aunque ellas pueden hacer las cosas solas, no estan sola para hacerlo.",
+        "participantes": [
+            {"nombre": "Maryn Sornee Figueredo", "avanzado": 43},
+            {"nombre": "Vanessa Garcia", "avanzado": 50}
+        ]
+    },
+    {
+        "nombre": "Celia Cruz",
+        "descripcion": "Aquellos hombres que conectan con la alegria de la vida, conectan con la felicidad y ponen ese toque dulce en su dia a dia.",
+        "participantes": [
+            {"nombre": "Jose Betts", "avanzado": 56},
+            {"nombre": "Eduardo Vogelsang", "avanzado": 48},
+            {"nombre": "Juan David Sanchez", "avanzado": 50}
+        ]
+    },
+    {
+        "nombre": "Bailarina",
+        "descripcion": "Aquellos hombres que conectan con su vulnerabilidad, conn la sensibilidad, dejando de lado la logica y siendo flexibles y mucho mas emocionales.",
+        "participantes": [
+            {"nombre": "Mario Tannus", "avanzado": 1},
+            {"nombre": "Jose Luis Torres", "avanzado": 45},
+            {"nombre": "William Otero", "avanzado": 45}
+        ]
+    },
+    {
+        "nombre": "Mariposa",
+        "descripcion": "Aquellas mujeres que conectan con su libertad, aquellas que permiten soltar el control en sus vidas para descubrir su verdadero ser.",
+        "participantes": [
+            {"nombre": "Yackeline Sanchez", "avanzado": 49},
+            {"nombre": "Johana Haddad", "avanzado": 50}
+        ]
+    },
+    {
+        "nombre": "Gloria Trevi",
+        "descripcion": "Aquellas mujeres que conectan al ser intrepidas, arriesgadas, que se atreven a hacer lo que quieren y permiten sacar su esencia por completo.",
+        "participantes": [
+            {"nombre": "Marta Rocio Franco", "avanzado": 50},
+            {"nombre": "Nancy Gutierrez", "avanzado": 50}
+        ]
+    },
+    {
+        "nombre": "Servicio",
+        "descripcion": "Aquellos hombres o mujeres que conectan con la humildad, de esta manera asi como ellos dan a los demas, asi mismo merecen recibir y dejan por completo la arrogancia a un lado.",
+        "participantes": [
+            {"nombre": "Kelly Avila", "avanzado": 41},
+            {"nombre": "Andres Lopez", "avanzado": 45}
+        ]
+    },
+    {
+        "nombre": "Cupido",
+        "descripcion": "Aquellos hombres o mujeres que conectan con el amor y permiten abrir de par en par su corazon, permitiendo que el amor entre a sus vidas.",
+        "participantes": [
+            {"nombre": "Monica Parra", "avanzado": 49},
+            {"nombre": "Rocio Castiblanco", "avanzado": 49}
+        ]
+    },
+    {
+        "nombre": "Gaviota",
+        "descripcion": "Aquellos hombres o mujeres que conectan con su ser disciplinado, que saben que la constancia y la dedicacion son la clave para alcanzar sus metas y objetivos.",
+        "participantes": [
+            {"nombre": "Yilberth Arredondo", "avanzado": 49},
+            {"nombre": "Monica Cuervo", "avanzado": 47},
+            {"nombre": "Elian Sanchez", "avanzado": 30}
+        ]
+    }
+
+]
